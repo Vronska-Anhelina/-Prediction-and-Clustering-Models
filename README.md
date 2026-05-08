@@ -1,17 +1,16 @@
 # -Prediction-and-Clustering-Models
+## Topics Covered
 
 This repository contains a set of independent Jupyter notebooks implementing
 and exploring various machine learning models for prediction and clustering tasks.
-## Contents
+- Numerical Values Forecasting (Linear Regression)
+- Categorical Values, Risks and Probabilities Forecasting (Logistic Regression)
+- Feature Engineering Basics
+- Cluster Analysis (K-Means, DBSCAN)
 
-Each notebook covers a separate topic and can be used independently:
-- Linear Regression
-- Logistic Regression
-- K-Means Clustering
-- DBSCAN
-## Technologies
+  ## Technologies
 
-- Python 
+- Python 3.x
 - scikit-learn
 - pandas, numpy
 - matplotlib / seaborn
