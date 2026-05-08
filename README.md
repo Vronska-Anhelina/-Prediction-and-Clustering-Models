@@ -10,7 +10,7 @@ and exploring various machine learning models for prediction and clustering task
 
   ## Technologies
 
-- Python 3.x
+- Python 
 - scikit-learn
 - pandas, numpy
 - matplotlib / seaborn
